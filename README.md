@@ -37,9 +37,8 @@ A simple security checklist covering key areas:
 ---
 
 ## 📂 Report
-📌 **[Cybersecurity Internship Report - Week 3](./Cybersecurity_Internship_Report_Week3.docx)** (Attach your report here)
+📌 **[Cybersecurity Internship Report - Week 3](./Cybersecurity_Internship_Report_Week3.docx)**
 
 ## 📜 License
-This project is licensed under the **MIT License** – feel free to use and contribute!
+This project is licensed under the **MIT License** –
 
-🚀 **Stay Secure & Keep Testing!** 🔒
